@@ -1,6 +1,6 @@
-INFO6123 Web Design Course Project
+# INFO6123 Web Design Course Project
 
-Mihir Prakashbhai Jain
+## Mihir Prakashbhai Jain
 
 I have created the website for my services.
 It features a dark color contrast and gradient effect animations on some of the div containers.
